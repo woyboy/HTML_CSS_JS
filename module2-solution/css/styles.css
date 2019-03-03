@@ -17,8 +17,20 @@ p.label {
 	top: 0;
 	right: 0;
 	margin-right: 5%;
-
 }
+
+#chickLabel {
+	background-color:  #7d97c6;
+}
+
+#beefLabel {
+	background-color: #c1535e
+}
+
+#sushiLabel {
+	background-color: #c49f6f
+}
+
 
 p.desc {
 	border: 1px solid black;
@@ -31,6 +43,7 @@ p.desc {
 	margin-left: 5%;
 	margin-right: 5%;
 }
+
 
 /*Support for desktop*/
 @media (min-width: 992px) {
@@ -58,7 +71,7 @@ p.desc {
 	position: relative;
 }
 
-#md-label{
+#sushiLabel{
 	margin-right: 2.5%;
 }
 
