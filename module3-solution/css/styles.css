@@ -1,0 +1,50 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	box-sizing: border-box;
+}
+
+header {
+	border-bottom: 3px solid black;
+}
+
+.nav-bg {
+	background-color: #066599;
+}
+
+#nav-link {
+	color: #fff;
+}
+
+.menu-title {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.main {
+	background-color: #fff;
+}
+
+#chicken {
+	background-color: #b8dbed;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-top: 15px;
+}
+
+#beef {
+	background-color: #edb8b8;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-top: 15px;
+}
+
+#sushi {
+	background-color: #e8e5e5;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-top: 15px;
+}
+
+#backToTop {
+	text-decoration: none;
+}
